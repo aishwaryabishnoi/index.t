@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Structured Website</title>
+</head>
+<body>
+<h1>My Favorite Recipes</h1>
+<l-- My Favorite Recipes
+-->
+Lorem ipsum
+
+<ul>
+	<li>soup</li>
+	<li>salad</li>
+	<li>pizza</li>
+</ul>
+<q>only the pure of heart can make a good soup</q>
+<ol>
+	<li>step 1</li>
+	<li>step 2</li>
+	<li>step 3</li>
+	<li>enjoy!</li>
+</ol>
+
+<h1>List of Ingredient</h1>
+<ul>
+	<li>ingredient 1</li>
+	<li>ingredient 2</li>
+	<li>ingredient 3</li>
+</ul>
+<q>who can resist a fresh salad! Here's one of my favorites.
+	<ol>
+		<li>step 1</li>
+		<li>step 2</li>
+		<li>step 3</li>
+		<li>enjoy!</li>
+	</ol>
+		<q>pizza the king of comfort foods</q>
+		<ol>
+			<li>step 1</li>
+			<li>step 2</li>
+			<li>step 3</li>
+			<li>enjoy!</li>
+		</ol>
+		<img src="http://sites.psu.edu/siowfa15/wp-content/uploads/sites/29639/2015/10/265204-chicken-soup.jpg"alt="soup image">
